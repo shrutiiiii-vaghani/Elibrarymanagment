@@ -1,0 +1,16 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  form {
+    flex-direction: row; /* Stack inputs vertically */
+    gap: 10px; /* Space between inputs */
+    padding: 20px; /* Optional padding */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 5px; /* Optional border radius */
+    background-color: #f9f9f94b; /* Optional background color */
+  }
+  
